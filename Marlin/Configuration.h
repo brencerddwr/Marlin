@@ -81,7 +81,6 @@
 #define STEP_STATE_Y_STEP_PIN HIGH     // Added by config.ini 2024-07-15 17:04:40
 #define STEP_STATE_Z_STEP_PIN HIGH     // Added by config.ini 2024-07-15 17:04:40
 
-#define CONFIG_EXPORT 2
 
 //===========================================================================
 //============================= Getting Started =============================
